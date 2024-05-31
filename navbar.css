@@ -174,12 +174,10 @@ body,html {
      max-width: 400px;
      width: 100%;
  }
-
  label {
      font-weight: bold;
      color: #020202;
  }
-
  select {
      padding: 10px;
  }
