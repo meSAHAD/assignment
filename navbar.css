@@ -106,7 +106,6 @@ body,html {
     place-items: center;
     height: 100vh;
     margin: 0;
-
 }
  .login-container {
      background-color: #ffffff2f;
@@ -170,6 +169,19 @@ body,html {
 
  a:hover {
      text-decoration: underline;
+ }
+ .option-container {
+     max-width: 400px;
+     width: 100%;
+ }
+
+ label {
+     font-weight: bold;
+     color: #020202;
+ }
+
+ select {
+     padding: 10px;
  }
 
  /* form section ends here  */
