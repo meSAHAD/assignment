@@ -35,10 +35,10 @@ function assignGrades($students)
 }
 
 $students = [
-    ['name' => 'Sahad', 'marks' => 85],
-    ['name' => 'Ayon', 'marks' => 72],
-    ['name' => 'Shosccho', 'marks' => 58],
-    ['name' => 'Abid', 'marks' => 91],
+    ['name' => 'Maria', 'marks' => 85],
+    ['name' => 'Sahad', 'marks' => 72],
+    ['name' => 'Emon', 'marks' => 58],
+    ['name' => 'Syfur', 'marks' => 91],
 ];
 
 $gradedStudents = assignGrades($students);
